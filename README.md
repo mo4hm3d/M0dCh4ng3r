@@ -7,8 +7,7 @@
 [Installation]
   {sudo python3 setup.py}
 [Running]
-  {python3 macchanger.py}
-[You Shouldn't Use Colons For Seperation Between Spaces]
+  {python3 macchanger.py -i [interface] -m [mac address you want]}
 [MAC Addresses Should Contain 12 Characters]
 [If You Use More Than 12 Characters. Your MAC Address Would Get Changed To The First 12]
 [If You Use Less Than 12 Character. The Rest Will Be Filled With 0]
