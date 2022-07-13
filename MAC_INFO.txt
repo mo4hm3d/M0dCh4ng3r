@@ -1,0 +1,7 @@
+[MAC Address Consists Of 6 Spaces]
+[MAC Address Is Made Up Of 12 Characters]
+[MAC Addresses Are Build On The Network Card. Because Without It You Wouldn't Be Able To Connect To A Network]
+[The Difference Between MAC Addresses And IP Addresses Is That IP Addresses Require Internet Access To Get Created. While MAC Addresses Doesn't Need Internet Access]
+[The Main Purpose Of MAC Addresses Is To Identify Devices On A Network]
+[You Shouldn't Be Able To Change MAC Addresses]
+[Yet People Like Me Found ways To Do It]
