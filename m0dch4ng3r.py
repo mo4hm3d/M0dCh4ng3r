@@ -10,10 +10,8 @@ parser.add_argument('-m', '--mac', metavar='mac', type=str, help="MAC Address Yo
 
 args = parser.parse_args()
 
-
-if not "SUDO_UID" in os.environ.keys():
+if os.geteuid() != 0:
     exit("RUN THE SCRIPT AS ROOT")
-
 
 print("*************************I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE*************************")
 try:
