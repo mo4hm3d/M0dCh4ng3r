@@ -13,7 +13,7 @@ args = parser.parse_args()
 if os.geteuid() != 0:
     exit("RUN THE SCRIPT AS ROOT")
 
-print("*************************I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE*************************")
+
 try:
  def Macchanger():
    print(f"[Your MAC Address Is]: {gmc()}")
