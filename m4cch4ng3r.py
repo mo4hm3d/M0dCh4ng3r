@@ -40,4 +40,4 @@ try:
    else:
     print("Invalid Command!")
 except KeyboardInterrupt:
-   exit("\nThanks For Using M0dCh4ng3r")
+   exit("\nThanks For Using M4cCh4ng3r")
