@@ -1,6 +1,6 @@
 *************************I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE*************************
 
-***********************M0dCh4ng3r***********************
+***********************M4cCh4ng3r***********************
 [m0h4md's MAC Changer]
 [Python3 Script To Spoof MAC Address]
 [Usage Is Pretty Simple]
