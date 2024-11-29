@@ -6,7 +6,7 @@ import argparse
 
 parser = argparse.ArgumentParser(description="M0h4mm4d's python3 script to change MAC address")
 parser.add_argument('-i', '--interface', metavar='interface', type=str, default='wlan0', help="Interface Which To Change MAC Address")
-parser.add_argument('-m', '--mac', metavar='mac', type=str, help="MAC Address You Want")
+parser.add_argument('-m', '--mac', metavar='mac', type=str, help="MAC address you want to spoof")
 
 args = parser.parse_args()
 
