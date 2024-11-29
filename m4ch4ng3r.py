@@ -5,8 +5,8 @@ from getmac import get_mac_address as gmc
 import argparse
 
 parser = argparse.ArgumentParser(description="M0h4mm4d's python3 script to change MAC address")
-parser.add_argument('-i', '--interface', metavar='interface', type=str, default='wlan0', help="Interface Which To Change MAC Address")
-parser.add_argument('-m', '--mac', metavar='mac', type=str, help="MAC address you want to spoof")
+parser.add_argument('-i', '--interface', metavar='interface', type=str, default='wlan0', help="Which interface to change its MAC address")
+parser.add_argument('-m', '--mac', metavar='mac', type=str, help="The MAC address you want to spoof")
 
 args = parser.parse_args()
 
