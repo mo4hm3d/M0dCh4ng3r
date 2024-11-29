@@ -1,4 +1,4 @@
-*************************I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE*************************
+# *************************I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE*************************
 
 ***********************M4cCh4ng3r***********************
 [m0h4mm4d's MAC Changer]
@@ -13,4 +13,4 @@
 [If You Use Less Than 12 Character. The Rest Will Be Filled With 0]
 [More Info About MAC Addresses Are Available At MAC_INFO.txt File]
 
-*************************I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE*************************
+# *************************I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE*************************
