@@ -11,5 +11,3 @@
 ### [If you use more than 12 characters. Your MAC address would get spoofed to the first 12 only]
 ### [If you use less than 12 character. The rest will be filled with 0]
 ### [More info about MAC addresses are available at MAC_INFO.txt File]
-
-# *************************I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE*************************
