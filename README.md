@@ -5,7 +5,7 @@
 #### [Usage Is Pretty Simple]
 #### [Installation]
   {sudo python3 setup.py}
-####[Running]
+#### [Running]
   {python3 m4ch4ng3r.py -i [interface] -m [mac address you want]}
 ### [MAC address should contain 12 characters]
 ### [If you use more than 12 characters. Your MAC address would get spoofed to the first 12 only]
